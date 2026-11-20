@@ -1,1 +1,3 @@
-"this message is in the main branch" 
+this message is in the main branch
+the message is in the feature branch
+
